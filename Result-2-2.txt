@@ -1,0 +1,9 @@
+**************************************
+1-Sequences:
+Pattern : <{45}>
+Pattern : <{46}>
+Pattern : <{47}>
+Pattern : <{48}>
+Pattern : <{49}>
+
+The count is: 5
